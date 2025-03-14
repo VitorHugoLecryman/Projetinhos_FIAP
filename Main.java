@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         String mensagem1 = "A user is connected.";
-        String mensagem2 = "Welcome V.";
+        String mensagem2 = "Welcome Vvvv.";
 
         System.out.println(mensagem1);
         System.out.println(mensagem2);
