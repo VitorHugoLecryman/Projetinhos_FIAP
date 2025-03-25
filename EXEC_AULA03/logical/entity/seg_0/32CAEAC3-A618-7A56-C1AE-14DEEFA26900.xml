@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="32CAEAC3-A618-7A56-C1AE-14DEEFA26900" name="T_VB_PEDIDO">
+<createdBy>labsfiap</createdBy>
+<createdTime>2025-03-25 11:08:21 UTC</createdTime>
+<ownerDesignName>EXEC_AULA03</ownerDesignName>
+<engineerTo>
+<item key="D0029BA4-91EE-CA21-90FE-B7032A539020" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>
