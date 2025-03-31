@@ -1,10 +1,10 @@
-package br.com.fiap;
+package br.com.fiap.bean;
 
-public class Radio {
+public class Televisor {
 
     // atributos
     public int volume;
-    public float estacao;
+    public int canal;
     // métodos
     public void aumentarVolume() {
         volume++;
@@ -12,7 +12,7 @@ public class Radio {
     public void diminuirVolume() {
         volume--;
     }
-    public void trocarEstacao(float frequencia) {
-        estacao = frequencia;
+    public void trocarCanal(int novoCanal ) {
+        canal = novoCanal;
     }
 }
